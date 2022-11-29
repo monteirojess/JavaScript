@@ -1,0 +1,79 @@
+div#corpagina{
+    background-color:rgb(194, 159, 227);
+}
+div#titulo{
+    font: normal 20pt TArial ;
+    background-color: white;
+    color:black;
+    line-height: 70px;
+    text-align: center;
+} 
+
+div#nome {
+    font: normal 15pt Times;
+    line-height: 50px;
+    text-align: center;
+}
+div#email{
+    font: normal 15pt Times;
+    line-height: 50px;
+    text-align: center;
+}
+div#demaior{
+    font: normal 15pt Times;
+    text-align: center;
+    line-height: 80px;
+}
+div#idade{
+    font: normal 15pt Times;
+    line-height: 50px;
+    text-align: center;
+}
+div#maioridade{
+    font: normal 15pt Times;
+    line-height: 80px;
+    text-align: center;
+    background-color: rgb(194, 159, 227);
+}
+div#accept{
+    font: normal 15pt Times;
+    line-height: 80px;
+    text-align: center;
+}
+div#submit{
+    font: normal 15pt Times;
+    line-height: 80px;
+    text-align: center;
+}
+div#limparformulario {
+    font: normal 15pt Times;
+    line-height: normal;
+    text-align: center;
+
+}
+div#mensagem{
+
+    font: normal 15pt Times;
+    line-height: 80px;
+    text-align: center;
+    background-color:rgb(194, 159, 227);
+}
+div#digitartexto{
+    margin-left: auto;
+    margin-right: auto;
+    resize: horizontal;
+
+}
+div#fimdepagina{
+    background-color:white;
+    line-height: 20px;
+    text-align: center;
+
+}
+div#rodape{
+    font: normal 10pt Times;
+    background-color:  rgb(194, 159, 227);
+    text-align: center;
+    line-height: 80px;
+    
+}
